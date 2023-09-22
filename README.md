@@ -2,6 +2,11 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi u.
 
+- Home
+- [Education](./education.md)
+- [Project](./project.md)
+- [Contact](./contact.md)
+
 ## About
 
 ![profile-pic](./_readme/img/profile-icon.png)  
